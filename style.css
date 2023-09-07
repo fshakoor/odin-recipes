@@ -1,0 +1,25 @@
+* {
+    background-color: midnightblue;
+}
+
+h1 {
+    font-family: Helvetica;
+    margin: 50px auto;
+    width: fit-content;
+    color: white;
+}
+
+li {
+    border: solid 5px white;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    margin: 25px auto;
+    width: fit-content;
+}
+
+a {
+    font-size: 25px;
+    color: white;
+    /* text-decoration: none; */
+}
